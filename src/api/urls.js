@@ -1,6 +1,6 @@
 import config from "../config";
 
-const URL = 'http://localhost:3031';
+const URL = 'https://backend-4hb0.onrender.com';
 // Users
 export const usersData = URL+'/api/users';
 export const profileData = URL+'/api/users/{id}';
